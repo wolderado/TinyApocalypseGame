@@ -2,7 +2,7 @@ A tiny FPS zombie apocalypse game in 200kb. The game is made for 4MBJam. With UP
 
 I'm newbie in C so don't judge too harshly :D I learned the language as I was making this project. Making games without OOP is kinda hard. So there are lots of repeated stuff and badly written codes. But it works. Hurray I guess :D
 
-# Game Pages (Download Links):
+## Game Pages (Download Links):
 * https://gamejolt.com/games/TinyApocalypse/627023
 * https://wolderado.itch.io/tiny-apocalypse
 
