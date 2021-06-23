@@ -1,0 +1,26 @@
+﻿  Main.c
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(61,21): warning C4013: 'InitializePlayer' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(62,32): warning C4013: 'GenerateMap' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(76,42): warning C4013: 'ProcessInput' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(80,24): warning C4013: 'DrawMap' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(97,24): warning C4013: 'DrawMinimap' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(98,30): warning C4013: 'DrawMinimapPlayer' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(118,21): warning C4101: 'screenTex': unreferenced local variable
+  MapGenerator.c
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(27,35): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(28,35): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(29,35): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(30,35): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(72,19): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(72,36): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(72,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(75,18): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(75,32): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(75,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(276,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(277,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(281,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(326,6): warning C4013: 'free' undefined; assuming extern returning int
+  Generating Code...
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\MapGenerator.c(77): warning C4716: 'GenerateRoad': must return a value
+  MyCoolGame.vcxproj -> D:\Visual Studio Projects\TestSmallNew\bin\Debug.DLL\MyCoolGame.exe

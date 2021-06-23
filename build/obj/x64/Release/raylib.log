@@ -1,0 +1,2 @@
+﻿raudio.obj : warning LNK4006: PlaySound already defined in winmm.lib(WINMM.dll); second definition ignored
+  raylib.vcxproj -> D:\Visual Studio Projects\TestSmallNew\bin\Release\raylib.lib

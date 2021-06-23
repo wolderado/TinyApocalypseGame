@@ -1,0 +1,50 @@
+﻿  models.c
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(273,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(305,54): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(335,43): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(346,43): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(534,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(535,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(543,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(544,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(568,28): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(559,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(560,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(576,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(586,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(587,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(609,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(611,78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(612,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(618,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(619,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(620,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(601,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(602,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(603,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(604,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(605,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(606,1): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(670,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(671,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(695,45): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(669,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(805,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(853,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(953,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1284,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1286,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1288,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1290,65): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1447,38): warning C4305: 'function': truncation from 'double' to 'float'
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1464,27): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1465,23): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1466,27): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1468,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1748,43): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1748,59): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1748,75): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\external\par_shapes.h(1717,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\raylib\src\models.c(4746,40): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\TestSmallNew\raylib\src\models.c(4758,44): warning C4018: '<': signed/unsigned mismatch
+  raylib.vcxproj -> D:\Visual Studio Projects\TestSmallNew\bin\Debug.DLL\raylib.dll

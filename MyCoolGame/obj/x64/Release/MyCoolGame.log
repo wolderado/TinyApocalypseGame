@@ -1,0 +1,25 @@
+﻿  Main.c
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\GameHeader.h(36,2): warning C4091: 'typedef ': ignored on left of 'MapTile' when no variable is declared
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\GameHeader.h(60,2): warning C4091: 'typedef ': ignored on left of 'Weapon' when no variable is declared
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\GameHeader.h(83,2): warning C4091: 'typedef ': ignored on left of 'MainPlayer' when no variable is declared
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(53,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(57,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(68,34): warning C4047: '=': 'char' differs in levels of indirection from 'char [2]'
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(87,32): warning C4013: 'GenerateMap' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(88,22): warning C4013: 'InitializeZombies' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(110,63): warning C4013: 'GetRoadStartPosition' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(110,80): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(97,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(132,71): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(141,21): warning C4013: 'InitializePlayer' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(142,21): warning C4013: 'InitializeWeapon' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(143,27): warning C4013: 'InitializeCollectables' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(161,44): warning C4013: 'ProcessInput' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(165,31): warning C4013: 'ProcessBullets' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(166,24): warning C4013: 'DrawMap' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(167,26): warning C4013: 'ExecuteAI' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(168,28): warning C4013: 'DrawZombies' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(182,29): warning C4013: 'ProcessAndDrawUI' undefined; assuming extern returning int
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(161,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio Projects\TestSmallNew\MyCoolGame\Main.c(209,21): warning C4101: 'screenTex': unreferenced local variable
+  MyCoolGame.vcxproj -> D:\Visual Studio Projects\TestSmallNew\bin\Release\MyCoolGame.exe
